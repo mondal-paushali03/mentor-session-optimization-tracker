@@ -1,0 +1,121 @@
+Session_ID,Session_Date,Session_Time,Program,Batch,Learner_ID,Learner_Name,Learner_Email,Age_Cohort,Mentor_Name,Session_Type,Scheduled_Duration_mins,Actual_Duration_mins,Session_Status,Mentor_Prep_Done,Learner_Attended,Post_Session_Rating,Action_Items_Documented,Follow_Up_Scheduled,Issue_Flag,Learner_Feedback
+SS1001,2025-09-08,15:00,Academy,Academy Sept25 Advanced,L46048,Learner_126,learner_126@gmail.com,e_10-24M,Sneha Reddy,Resume Review,30,0,No-show,Partial,No,,No,No,Session No-show,
+SS1002,2025-09-02,18:30,Academy,Academy Jul25 Beginner,L40495,Learner_259,learner_259@gmail.com,d_7-9M,Pooja Gupta,Career Guidance,30,0,Cancelled,Partial,No,,No,No,Session Cancelled,
+SS1003,2025-09-01,20:30,DSML,DSML Aug25 Advanced,L65392,Learner_175,learner_175@gmail.com,a_1M,Vikram Singh,Resume Review,45,33,Completed,Yes,Yes,3,Yes,Yes,,"Excellent career guidance, very motivating"
+SS1004,2025-10-05,19:00,Academy,Academy Aug25 Intermediate,L20328,Learner_283,learner_283@gmail.com,a_1M,Vikram Singh,Learning Roadmap,45,,Rescheduled,Partial,Yes,,No,No,Session Rescheduled,
+SS1005,2025-09-19,12:30,Academy,Academy Jul25 Beginner,L23238,Learner_195,learner_195@gmail.com,c_4-6M,Vikram Singh,Project Discussion,45,0,No-show,Yes,No,,No,No,Session No-show,
+SS1006,2025-09-05,15:30,DSML,DSML Aug25 Advanced,L42087,Learner_84,learner_84@gmail.com,c_4-6M,Kavya Nair,Project Discussion,60,67,Completed,Partial,Yes,3,Yes,Yes,Learner seemed confused,"Very helpful session, mentor was clear and supportive"
+SS1007,2025-09-05,20:30,DSML,DSML Aug25 Advanced,L51245,Learner_109,learner_109@gmail.com,c_4-6M,Karthik Rao,Project Discussion,60,59,Completed,Yes,Yes,3,Yes,No,,
+SS1008,2025-10-08,15:30,DevOps,DevOps Aug25,L38746,Learner_71,learner_71@gmail.com,a_1M,Arjun Desai,Project Discussion,30,18,Completed,Yes,Yes,4,No,No,Session ended early (< 20 mins),
+SS1009,2025-10-09,13:30,DevOps,DevOps Sept25,L42953,Learner_498,learner_498@gmail.com,e_10-24M,Arjun Desai,Career Guidance,60,0,No-show,Yes,No,,No,No,Session No-show,
+SS1010,2025-09-08,19:00,AIML,AIML Aug25 Batch,L30730,Learner_233,learner_233@gmail.com,c_4-6M,Rahul Sharma,Mock Interview,30,0,Cancelled,Partial,Yes,,No,No,Session Cancelled,
+SS1011,2025-09-10,18:00,AIML,AIML Jun25 Batch,L80697,Learner_489,learner_489@gmail.com,b_2-3M,Siddharth Joshi,Learning Roadmap,60,55,Completed,No,Yes,1,Yes,Yes,Learner seemed confused,"Very helpful session, mentor was clear and supportive"
+SS1012,2025-09-06,17:30,DevOps,DevOps Jun25,L79822,Learner_393,learner_393@gmail.com,c_4-6M,Amit Kumar,Resume Review,45,0,No-show,Partial,No,,No,No,Session No-show,
+SS1013,2025-09-14,12:00,DSML,DSML Aug25 Advanced,L50857,Learner_205,learner_205@gmail.com,e_10-24M,Karthik Rao,Mock Interview,60,59,Completed,Yes,Yes,3,Yes,Yes,Session ended early (< 20 mins),
+SS1014,2025-09-01,18:30,Academy,Academy Sept25 Advanced,L92719,Learner_31,learner_31@gmail.com,f_>24M,Sneha Reddy,Career Guidance,45,32,Completed,Partial,Yes,3,No,Yes,,"Session felt rushed, didn't get enough time"
+SS1015,2025-09-16,15:30,DevOps,DevOps Aug25,L34957,Learner_49,learner_49@gmail.com,a_1M,Priya Patel,Project Discussion,45,43,Completed,No,Yes,5,Yes,No,,Good guidance but could use more specific action items
+SS1016,2025-09-07,19:00,DSML,DSML Jun25 Beginner,L34931,Learner_275,learner_275@gmail.com,a_1M,Kavya Nair,Resume Review,30,23,Completed,No,Yes,3,Yes,Yes,,Good guidance but could use more specific action items
+SS1017,2025-09-06,15:30,DSML,DSML Jun25 Beginner,L63269,Learner_249,learner_249@gmail.com,a_1M,Kavya Nair,Resume Review,45,,Rescheduled,Yes,Yes,,No,No,Session Rescheduled,
+SS1018,2025-09-30,18:30,AIML,AIML Aug25 Batch,L82845,Learner_339,learner_339@gmail.com,a_1M,Neha Verma,Project Discussion,30,24,Completed,Yes,Yes,5,Yes,No,"Mentioned external resources (Udemy, etc.)","Very helpful session, mentor was clear and supportive"
+SS1019,2025-10-03,10:30,DSML,DSML Jun25 Beginner,L76562,Learner_42,learner_42@gmail.com,e_10-24M,Divya Krishnan,Resume Review,60,47,Completed,Yes,Yes,4,Yes,No,,"Very helpful session, mentor was clear and supportive"
+SS1020,2025-10-08,16:00,AIML,AIML Aug25 Batch,L36772,Learner_343,learner_343@gmail.com,a_1M,Neha Verma,Mock Interview,45,42,Completed,Yes,Yes,4,Yes,Yes,"Mentioned external resources (Udemy, etc.)",Good guidance but could use more specific action items
+SS1021,2025-09-05,19:30,DSML,DSML Aug25 Advanced,L44760,Learner_68,learner_68@gmail.com,a_1M,Aditya Malhotra,Mock Interview,30,26,Completed,Yes,Yes,3,Yes,No,,
+SS1022,2025-09-07,16:30,DSML,DSML Jul25 Intermediate,L25129,Learner_456,learner_456@gmail.com,e_10-24M,Priya Patel,Learning Roadmap,45,39,Completed,Partial,Yes,3,Yes,Yes,,"Excellent career guidance, very motivating"
+SS1023,2025-09-04,15:00,Academy,Academy Sept25 Advanced,L65518,Learner_425,learner_425@gmail.com,f_>24M,Vikram Singh,Career Guidance,45,54,Completed,Yes,Yes,4,Yes,Yes,No follow-up scheduled,
+SS1024,2025-09-08,13:30,Academy,Academy Sept25 Advanced,L29536,Learner_280,learner_280@gmail.com,a_1M,Rahul Sharma,Mock Interview,60,0,Cancelled,Yes,No,,No,No,Session Cancelled,
+SS1025,2025-09-03,11:30,AIML,AIML Jun25 Batch,L99399,Learner_128,learner_128@gmail.com,a_1M,Karthik Rao,Career Guidance,60,58,Completed,Partial,Yes,4,Yes,Yes,No action items documented,"Great mock interview, felt very realistic"
+SS1026,2025-09-27,9:00,DSML,DSML Jul25 Intermediate,L30866,Learner_404,learner_404@gmail.com,b_2-3M,Neha Verma,Career Guidance,30,30,Completed,Yes,Yes,3,No,Yes,Vague guidance provided,"Mentor was late, shortened our discussion time"
+SS1027,2025-09-26,18:30,AIML,AIML Aug25 Batch,L19099,Learner_496,learner_496@gmail.com,b_2-3M,Siddharth Joshi,Mock Interview,60,61,Completed,No,Yes,4,Yes,Yes,Mentor late to join,"Excellent career guidance, very motivating"
+SS1028,2025-09-03,17:00,Academy,Academy Sept25 Advanced,L66959,Learner_177,learner_177@gmail.com,a_1M,Neha Verma,Mock Interview,60,61,Completed,Yes,Yes,3,Yes,Yes,Session ended early (< 20 mins),"Great mock interview, felt very realistic"
+SS1029,2025-09-24,11:00,DevOps,DevOps Jun25,L97062,Learner_472,learner_472@gmail.com,e_10-24M,Ananya Iyer,Learning Roadmap,60,48,Completed,Yes,Yes,4,No,Yes,Dismissive tone noted,"Excellent career guidance, very motivating"
+SS1030,2025-09-27,16:30,DevOps,DevOps Sept25,L32810,Learner_316,learner_316@gmail.com,d_7-9M,Pooja Gupta,Mock Interview,60,45,Completed,Yes,Yes,3,No,No,,"Vague advice, expected more concrete steps"
+SS1031,2025-09-14,19:30,DevOps,DevOps Sept25,L32241,Learner_338,learner_338@gmail.com,b_2-3M,Priya Patel,Mock Interview,60,0,Cancelled,Partial,No,,No,No,Session Cancelled,
+SS1032,2025-09-15,12:30,DSML,DSML Jun25 Beginner,L13201,Learner_24,learner_24@gmail.com,e_10-24M,Sneha Reddy,Project Discussion,30,0,Cancelled,No,No,,No,No,Session Cancelled,
+SS1033,2025-10-02,17:30,DevOps,DevOps Jun25,L29342,Learner_336,learner_336@gmail.com,f_>24M,Neha Verma,Career Guidance,30,,Rescheduled,No,Yes,,No,No,Session Rescheduled,
+SS1034,2025-09-04,16:30,DSML,DSML Jun25 Beginner,L69829,Learner_69,learner_69@gmail.com,c_4-6M,Siddharth Joshi,Project Discussion,60,0,No-show,Partial,No,,No,No,Session No-show,
+SS1035,2025-10-06,13:30,DevOps,DevOps Jun25,L72216,Learner_231,learner_231@gmail.com,b_2-3M,Vikram Singh,Resume Review,60,,Rescheduled,Yes,No,,No,No,Session Rescheduled,
+SS1036,2025-09-05,15:30,AIML,AIML Jun25 Batch,L45614,Learner_172,learner_172@gmail.com,d_7-9M,Ananya Iyer,Learning Roadmap,30,19,Completed,Yes,Yes,3,No,Yes,Session ended early (< 20 mins),Good guidance but could use more specific action items
+SS1037,2025-10-05,15:30,DevOps,DevOps Aug25,L18161,Learner_106,learner_106@gmail.com,c_4-6M,Divya Krishnan,Project Discussion,60,67,Completed,Yes,Yes,5,No,Yes,Session ended early (< 20 mins),"Vague advice, expected more concrete steps"
+SS1038,2025-10-05,15:00,DSML,DSML Jul25 Intermediate,L38760,Learner_140,learner_140@gmail.com,a_1M,Rohan Mehta,Project Discussion,45,40,Completed,No,Yes,4,No,Yes,,
+SS1039,2025-09-06,16:00,DevOps,DevOps Jun25,L70515,Learner_94,learner_94@gmail.com,a_1M,Rahul Sharma,Mock Interview,45,36,Completed,No,Yes,3,No,Yes,Dismissive tone noted,"Excellent career guidance, very motivating"
+SS1040,2025-10-05,11:00,Academy,Academy Aug25 Intermediate,L39389,Learner_333,learner_333@gmail.com,e_10-24M,Priya Patel,Career Guidance,30,,Rescheduled,Yes,Yes,,No,No,Session Rescheduled,
+SS1041,2025-09-09,18:00,DevOps,DevOps Sept25,L24993,Learner_289,learner_289@gmail.com,e_10-24M,Sneha Reddy,Project Discussion,45,0,No-show,Yes,No,,No,No,Session No-show,
+SS1042,2025-09-11,18:00,AIML,AIML Jun25 Batch,L85849,Learner_14,learner_14@gmail.com,a_1M,Aditya Malhotra,Mock Interview,60,0,Cancelled,No,No,,No,No,Session Cancelled,
+SS1043,2025-09-07,10:30,AIML,AIML Sept25 Batch,L88697,Learner_413,learner_413@gmail.com,c_4-6M,Priya Patel,Learning Roadmap,30,,Rescheduled,Yes,No,,No,No,Session Rescheduled,
+SS1044,2025-09-01,17:30,DevOps,DevOps Aug25,L23833,Learner_222,learner_222@gmail.com,f_>24M,Ananya Iyer,Project Discussion,30,0,No-show,No,No,,No,No,Session No-show,
+SS1045,2025-10-05,19:30,DevOps,DevOps Aug25,L67091,Learner_423,learner_423@gmail.com,e_10-24M,Neha Verma,Learning Roadmap,45,37,Completed,Yes,Yes,3,No,Yes,No follow-up scheduled,
+SS1046,2025-09-22,10:00,Academy,Academy Aug25 Intermediate,L52600,Learner_94,learner_94@gmail.com,b_2-3M,Kavya Nair,Resume Review,45,40,Completed,Yes,Yes,5,Yes,No,Session ended early (< 20 mins),
+SS1047,2025-09-27,18:30,DevOps,DevOps Sept25,L41499,Learner_354,learner_354@gmail.com,f_>24M,Kavya Nair,Project Discussion,30,17,Completed,Yes,Yes,3,No,No,Session ended early (< 20 mins),"Excellent career guidance, very motivating"
+SS1048,2025-10-01,11:00,AIML,AIML Aug25 Batch,L82140,Learner_170,learner_170@gmail.com,f_>24M,Ananya Iyer,Project Discussion,45,38,Completed,Yes,Yes,2,Yes,Yes,Mentor late to join,
+SS1049,2025-09-14,13:00,DevOps,DevOps Aug25,L87278,Learner_390,learner_390@gmail.com,b_2-3M,Arjun Desai,Learning Roadmap,30,21,Completed,Yes,Yes,3,Yes,Yes,Session ended early (< 20 mins),
+SS1050,2025-09-04,16:00,AIML,AIML Sept25 Batch,L26551,Learner_327,learner_327@gmail.com,c_4-6M,Divya Krishnan,Project Discussion,30,33,Completed,Yes,Yes,4,No,Yes,No action items documented,"Very helpful session, mentor was clear and supportive"
+SS1051,2025-09-05,18:00,DevOps,DevOps Aug25,L19710,Learner_296,learner_296@gmail.com,d_7-9M,Karthik Rao,Career Guidance,30,40,Completed,Partial,Yes,5,Yes,Yes,Mentor late to join,
+SS1052,2025-10-04,19:00,DevOps,DevOps Aug25,L68028,Learner_153,learner_153@gmail.com,c_4-6M,Divya Krishnan,Learning Roadmap,45,48,Completed,Partial,Yes,2,Yes,Yes,,"Mentor was late, shortened our discussion time"
+SS1053,2025-09-11,16:00,DSML,DSML Jun25 Beginner,L82350,Learner_39,learner_39@gmail.com,f_>24M,Amit Kumar,Career Guidance,45,52,Completed,Partial,Yes,4,Yes,Yes,Vague guidance provided,"Excellent career guidance, very motivating"
+SS1054,2025-09-15,13:30,AIML,AIML Sept25 Batch,L87304,Learner_339,learner_339@gmail.com,b_2-3M,Siddharth Joshi,Resume Review,30,32,Completed,Yes,Yes,4,Yes,Yes,Mentor late to join,"Very helpful session, mentor was clear and supportive"
+SS1055,2025-09-29,9:30,Academy,Academy Aug25 Intermediate,L49857,Learner_359,learner_359@gmail.com,e_10-24M,Rohan Mehta,Mock Interview,60,0,Cancelled,No,No,,No,No,Session Cancelled,
+SS1056,2025-09-21,17:30,AIML,AIML Jun25 Batch,L21970,Learner_118,learner_118@gmail.com,d_7-9M,Karthik Rao,Learning Roadmap,30,0,Cancelled,Yes,Yes,,No,No,Session Cancelled,
+SS1057,2025-09-18,16:30,DSML,DSML Aug25 Advanced,L67132,Learner_326,learner_326@gmail.com,f_>24M,Divya Krishnan,Project Discussion,45,41,Completed,No,Yes,3,Yes,Yes,"Mentioned external resources (Udemy, etc.)","Great mock interview, felt very realistic"
+SS1058,2025-09-26,14:30,Academy,Academy Aug25 Intermediate,L21542,Learner_162,learner_162@gmail.com,e_10-24M,Vikram Singh,Mock Interview,45,46,Completed,Yes,Yes,4,No,Yes,Session ended early (< 20 mins),"Mentor was late, shortened our discussion time"
+SS1059,2025-09-29,9:30,Academy,Academy Jul25 Beginner,L45003,Learner_282,learner_282@gmail.com,e_10-24M,Amit Kumar,Mock Interview,60,60,Completed,Yes,Yes,1,Yes,No,No action items documented,"Excellent career guidance, very motivating"
+SS1060,2025-09-06,17:00,DSML,DSML Jun25 Beginner,L70482,Learner_485,learner_485@gmail.com,d_7-9M,Priya Patel,Resume Review,60,54,Completed,Partial,Yes,4,No,Yes,No follow-up scheduled,"Mentor was late, shortened our discussion time"
+SS1061,2025-09-25,13:00,DSML,DSML Aug25 Advanced,L76616,Learner_383,learner_383@gmail.com,e_10-24M,Aditya Malhotra,Resume Review,30,,Rescheduled,Yes,No,,No,No,Session Rescheduled,
+SS1062,2025-09-19,12:30,AIML,AIML Sept25 Batch,L86011,Learner_338,learner_338@gmail.com,f_>24M,Kavya Nair,Resume Review,60,60,Completed,Yes,Yes,3,No,Yes,"Mentioned external resources (Udemy, etc.)","Mentor was late, shortened our discussion time"
+SS1063,2025-09-15,10:30,DevOps,DevOps Jun25,L51704,Learner_382,learner_382@gmail.com,c_4-6M,Kavya Nair,Project Discussion,60,70,Completed,Yes,Yes,4,Yes,Yes,,
+SS1064,2025-09-07,17:30,DevOps,DevOps Jun25,L28894,Learner_210,learner_210@gmail.com,f_>24M,Divya Krishnan,Resume Review,45,55,Completed,Yes,Yes,3,No,No,Mentor late to join,"Vague advice, expected more concrete steps"
+SS1065,2025-09-21,10:30,DevOps,DevOps Sept25,L14705,Learner_317,learner_317@gmail.com,f_>24M,Priya Patel,Resume Review,60,0,No-show,Yes,No,,No,No,Session No-show,
+SS1066,2025-09-07,15:00,Academy,Academy Aug25 Intermediate,L31805,Learner_356,learner_356@gmail.com,e_10-24M,Vikram Singh,Career Guidance,45,55,Completed,Yes,Yes,3,Yes,Yes,No action items documented,"Mentor was late, shortened our discussion time"
+SS1067,2025-09-11,12:30,DSML,DSML Jun25 Beginner,L89887,Learner_446,learner_446@gmail.com,b_2-3M,Rohan Mehta,Learning Roadmap,30,0,No-show,No,No,,No,No,Session No-show,
+SS1068,2025-09-17,13:30,DevOps,DevOps Aug25,L97404,Learner_5,learner_5@gmail.com,f_>24M,Aditya Malhotra,Project Discussion,60,62,Completed,Yes,Yes,2,Yes,No,Vague guidance provided,"Great mock interview, felt very realistic"
+SS1069,2025-09-20,19:30,DSML,DSML Jul25 Intermediate,L73335,Learner_55,learner_55@gmail.com,a_1M,Sneha Reddy,Project Discussion,45,0,Cancelled,Partial,No,,No,No,Session Cancelled,
+SS1070,2025-09-18,14:00,Academy,Academy Sept25 Advanced,L99889,Learner_399,learner_399@gmail.com,e_10-24M,Neha Verma,Career Guidance,60,0,Cancelled,No,No,,No,No,Session Cancelled,
+SS1071,2025-09-13,9:30,AIML,AIML Sept25 Batch,L96400,Learner_349,learner_349@gmail.com,d_7-9M,Divya Krishnan,Resume Review,30,0,No-show,Yes,No,,No,No,Session No-show,
+SS1072,2025-09-09,13:30,Academy,Academy Aug25 Intermediate,L52823,Learner_383,learner_383@gmail.com,b_2-3M,Rohan Mehta,Resume Review,30,40,Completed,Partial,Yes,5,Yes,No,,"Excellent career guidance, very motivating"
+SS1073,2025-09-19,9:30,AIML,AIML Jun25 Batch,L71385,Learner_494,learner_494@gmail.com,d_7-9M,Priya Patel,Resume Review,30,,Rescheduled,No,No,,No,No,Session Rescheduled,
+SS1074,2025-10-05,16:00,Academy,Academy Aug25 Intermediate,L58311,Learner_345,learner_345@gmail.com,b_2-3M,Neha Verma,Mock Interview,45,0,Cancelled,Yes,Yes,,No,No,Session Cancelled,
+SS1075,2025-10-06,9:00,AIML,AIML Sept25 Batch,L39015,Learner_332,learner_332@gmail.com,b_2-3M,Priya Patel,Project Discussion,45,0,No-show,No,No,,No,No,Session No-show,
+SS1076,2025-09-20,10:30,DevOps,DevOps Jun25,L22739,Learner_121,learner_121@gmail.com,f_>24M,Aditya Malhotra,Learning Roadmap,45,44,Completed,Yes,Yes,4,No,No,No action items documented,"Great mock interview, felt very realistic"
+SS1077,2025-09-27,10:30,AIML,AIML Jun25 Batch,L58566,Learner_112,learner_112@gmail.com,b_2-3M,Kavya Nair,Project Discussion,45,33,Completed,Yes,Yes,4,Yes,Yes,Dismissive tone noted,"Excellent career guidance, very motivating"
+SS1078,2025-09-06,10:00,DSML,DSML Aug25 Advanced,L93819,Learner_306,learner_306@gmail.com,b_2-3M,Rahul Sharma,Career Guidance,45,,Rescheduled,Yes,Yes,,No,No,Session Rescheduled,
+SS1079,2025-10-08,9:30,DSML,DSML Jun25 Beginner,L53064,Learner_397,learner_397@gmail.com,b_2-3M,Amit Kumar,Learning Roadmap,45,34,Completed,Yes,Yes,4,Yes,Yes,,"Very helpful session, mentor was clear and supportive"
+SS1080,2025-09-16,10:30,AIML,AIML Jun25 Batch,L32838,Learner_136,learner_136@gmail.com,f_>24M,Rahul Sharma,Resume Review,45,0,No-show,Partial,No,,No,No,Session No-show,
+SS1081,2025-09-29,19:00,AIML,AIML Sept25 Batch,L87812,Learner_56,learner_56@gmail.com,d_7-9M,Kavya Nair,Learning Roadmap,60,46,Completed,Partial,Yes,3,Yes,Yes,No follow-up scheduled,"Great mock interview, felt very realistic"
+SS1082,2025-10-02,16:30,DevOps,DevOps Jun25,L20589,Learner_165,learner_165@gmail.com,c_4-6M,Pooja Gupta,Resume Review,30,23,Completed,Partial,Yes,4,Yes,Yes,,
+SS1083,2025-09-07,15:30,Academy,Academy Sept25 Advanced,L95316,Learner_450,learner_450@gmail.com,b_2-3M,Siddharth Joshi,Learning Roadmap,30,0,No-show,No,No,,No,No,Session No-show,
+SS1084,2025-09-30,16:00,DevOps,DevOps Aug25,L22463,Learner_161,learner_161@gmail.com,f_>24M,Rohan Mehta,Mock Interview,45,0,No-show,Yes,No,,No,No,Session No-show,
+SS1085,2025-09-06,17:30,Academy,Academy Jul25 Beginner,L66606,Learner_50,learner_50@gmail.com,e_10-24M,Neha Verma,Mock Interview,30,,Rescheduled,Partial,Yes,,No,No,Session Rescheduled,
+SS1086,2025-09-08,14:00,DevOps,DevOps Aug25,L97207,Learner_482,learner_482@gmail.com,c_4-6M,Siddharth Joshi,Project Discussion,60,,Rescheduled,Yes,No,,No,No,Session Rescheduled,
+SS1087,2025-10-07,19:00,DSML,DSML Jun25 Beginner,L96079,Learner_247,learner_247@gmail.com,e_10-24M,Sneha Reddy,Career Guidance,60,56,Completed,Yes,Yes,5,Yes,Yes,,
+SS1088,2025-10-09,20:00,AIML,AIML Jun25 Batch,L33647,Learner_140,learner_140@gmail.com,a_1M,Neha Verma,Mock Interview,45,30,Completed,Yes,Yes,5,No,Yes,No action items documented,"Very helpful session, mentor was clear and supportive"
+SS1089,2025-09-25,9:00,DevOps,DevOps Aug25,L54681,Learner_81,learner_81@gmail.com,a_1M,Ananya Iyer,Mock Interview,45,0,No-show,Partial,No,,No,No,Session No-show,
+SS1090,2025-09-11,19:30,Academy,Academy Sept25 Advanced,L20693,Learner_140,learner_140@gmail.com,c_4-6M,Kavya Nair,Project Discussion,60,59,Completed,No,Yes,3,Yes,Yes,Dismissive tone noted,Good guidance but could use more specific action items
+SS1091,2025-10-04,16:30,AIML,AIML Jun25 Batch,L38903,Learner_203,learner_203@gmail.com,a_1M,Pooja Gupta,Career Guidance,30,24,Completed,Yes,Yes,5,Yes,Yes,"Mentioned external resources (Udemy, etc.)",Good guidance but could use more specific action items
+SS1092,2025-09-12,9:30,DSML,DSML Jul25 Intermediate,L79806,Learner_361,learner_361@gmail.com,f_>24M,Sneha Reddy,Learning Roadmap,60,0,Cancelled,Yes,Yes,,No,No,Session Cancelled,
+SS1093,2025-09-02,16:30,DevOps,DevOps Jun25,L51033,Learner_295,learner_295@gmail.com,e_10-24M,Rohan Mehta,Learning Roadmap,60,65,Completed,No,Yes,3,No,Yes,"Mentioned external resources (Udemy, etc.)","Session felt rushed, didn't get enough time"
+SS1094,2025-09-06,14:00,DevOps,DevOps Jun25,L41891,Learner_224,learner_224@gmail.com,b_2-3M,Pooja Gupta,Project Discussion,30,0,Cancelled,No,No,,No,No,Session Cancelled,
+SS1095,2025-09-05,11:00,Academy,Academy Sept25 Advanced,L76840,Learner_100,learner_100@gmail.com,e_10-24M,Aditya Malhotra,Mock Interview,60,65,Completed,Yes,Yes,3,Yes,Yes,Learner seemed confused,"Session felt rushed, didn't get enough time"
+SS1096,2025-09-12,14:00,DevOps,DevOps Aug25,L83889,Learner_390,learner_390@gmail.com,f_>24M,Pooja Gupta,Project Discussion,60,0,No-show,Partial,No,,No,No,Session No-show,
+SS1097,2025-09-29,16:00,Academy,Academy Aug25 Intermediate,L67961,Learner_324,learner_324@gmail.com,d_7-9M,Vikram Singh,Mock Interview,30,0,Cancelled,Yes,Yes,,No,No,Session Cancelled,
+SS1098,2025-09-04,17:00,AIML,AIML Aug25 Batch,L20057,Learner_331,learner_331@gmail.com,e_10-24M,Divya Krishnan,Career Guidance,60,0,Cancelled,Partial,No,,No,No,Session Cancelled,
+SS1099,2025-09-29,12:30,DSML,DSML Jul25 Intermediate,L89299,Learner_244,learner_244@gmail.com,a_1M,Arjun Desai,Resume Review,45,33,Completed,Yes,Yes,5,Yes,No,,"Session felt rushed, didn't get enough time"
+SS1100,2025-09-29,19:30,DSML,DSML Jul25 Intermediate,L58870,Learner_470,learner_470@gmail.com,e_10-24M,Vikram Singh,Project Discussion,45,51,Completed,Partial,Yes,2,Yes,Yes,"Mentioned external resources (Udemy, etc.)",Good guidance but could use more specific action items
+SS1101,2025-09-19,11:30,AIML,AIML Sept25 Batch,L96057,Learner_494,learner_494@gmail.com,f_>24M,Aditya Malhotra,Learning Roadmap,30,,Rescheduled,Yes,Yes,,No,No,Session Rescheduled,
+SS1102,2025-09-20,20:00,DevOps,DevOps Jun25,L87993,Learner_363,learner_363@gmail.com,f_>24M,Priya Patel,Mock Interview,45,0,Cancelled,Yes,Yes,,No,No,Session Cancelled,
+SS1103,2025-09-28,17:00,AIML,AIML Jun25 Batch,L57526,Learner_159,learner_159@gmail.com,e_10-24M,Amit Kumar,Resume Review,45,36,Completed,Yes,Yes,5,Yes,Yes,Vague guidance provided,Good guidance but could use more specific action items
+SS1104,2025-09-22,15:30,DSML,DSML Aug25 Advanced,L59377,Learner_79,learner_79@gmail.com,a_1M,Amit Kumar,Resume Review,60,,Rescheduled,Partial,Yes,,No,No,Session Rescheduled,
+SS1105,2025-09-16,16:30,DevOps,DevOps Sept25,L47346,Learner_386,learner_386@gmail.com,d_7-9M,Neha Verma,Project Discussion,60,52,Completed,Yes,Yes,5,No,Yes,"Mentioned external resources (Udemy, etc.)",
+SS1106,2025-09-25,10:00,DevOps,DevOps Jun25,L36174,Learner_411,learner_411@gmail.com,e_10-24M,Pooja Gupta,Resume Review,45,,Rescheduled,Yes,No,,No,No,Session Rescheduled,
+SS1107,2025-09-19,17:30,Academy,Academy Jul25 Beginner,L45755,Learner_231,learner_231@gmail.com,d_7-9M,Aditya Malhotra,Learning Roadmap,45,32,Completed,Yes,Yes,5,Yes,Yes,Dismissive tone noted,"Very helpful session, mentor was clear and supportive"
+SS1108,2025-09-16,11:30,DevOps,DevOps Jun25,L59140,Learner_115,learner_115@gmail.com,f_>24M,Rahul Sharma,Mock Interview,60,65,Completed,Yes,Yes,5,Yes,Yes,Vague guidance provided,Mentor suggested I try Udemy for some topics
+SS1109,2025-09-29,12:30,Academy,Academy Jul25 Beginner,L12490,Learner_132,learner_132@gmail.com,c_4-6M,Sneha Reddy,Resume Review,60,0,Cancelled,Partial,No,,No,No,Session Cancelled,
+SS1110,2025-09-08,12:00,Academy,Academy Jul25 Beginner,L65027,Learner_328,learner_328@gmail.com,e_10-24M,Siddharth Joshi,Learning Roadmap,30,18,Completed,No,Yes,4,No,Yes,Session ended early (< 20 mins),
+SS1111,2025-09-19,17:00,DevOps,DevOps Jun25,L90584,Learner_181,learner_181@gmail.com,e_10-24M,Sneha Reddy,Learning Roadmap,30,36,Completed,Yes,Yes,4,Yes,Yes,,
+SS1112,2025-09-25,12:00,DevOps,DevOps Jun25,L93318,Learner_199,learner_199@gmail.com,c_4-6M,Ananya Iyer,Mock Interview,30,0,No-show,Yes,No,,No,No,Session No-show,
+SS1113,2025-10-08,11:00,AIML,AIML Jun25 Batch,L15811,Learner_181,learner_181@gmail.com,f_>24M,Arjun Desai,Mock Interview,60,,Rescheduled,Yes,No,,No,No,Session Rescheduled,
+SS1114,2025-09-05,14:00,DevOps,DevOps Jun25,L48462,Learner_104,learner_104@gmail.com,c_4-6M,Rahul Sharma,Resume Review,45,39,Completed,Partial,Yes,3,No,Yes,Session ended early (< 20 mins),"Mentor was late, shortened our discussion time"
+SS1115,2025-09-22,16:30,AIML,AIML Jun25 Batch,L58237,Learner_224,learner_224@gmail.com,b_2-3M,Aditya Malhotra,Project Discussion,45,0,No-show,No,No,,No,No,Session No-show,
+SS1116,2025-09-24,10:30,AIML,AIML Jun25 Batch,L65640,Learner_41,learner_41@gmail.com,a_1M,Rohan Mehta,Learning Roadmap,30,,Rescheduled,Partial,No,,No,No,Session Rescheduled,
+SS1117,2025-09-19,20:30,AIML,AIML Aug25 Batch,L88986,Learner_368,learner_368@gmail.com,a_1M,Rohan Mehta,Resume Review,45,0,No-show,Yes,No,,No,No,Session No-show,
+SS1118,2025-09-28,11:00,AIML,AIML Sept25 Batch,L17518,Learner_39,learner_39@gmail.com,a_1M,Karthik Rao,Project Discussion,60,70,Completed,Yes,Yes,5,Yes,No,,Mentor suggested I try Udemy for some topics
+SS1119,2025-09-16,10:00,AIML,AIML Aug25 Batch,L60181,Learner_487,learner_487@gmail.com,d_7-9M,Pooja Gupta,Career Guidance,30,0,Cancelled,No,No,,No,No,Session Cancelled,
+SS1120,2025-10-04,20:30,AIML,AIML Aug25 Batch,L51207,Learner_333,learner_333@gmail.com,c_4-6M,Vikram Singh,Resume Review,30,38,Completed,Yes,Yes,4,No,No,Mentor late to join,"Excellent career guidance, very motivating"
